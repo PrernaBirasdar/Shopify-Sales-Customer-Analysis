@@ -76,16 +76,9 @@ The dashboard is designed to be interactive and dynamic, offering both high-leve
 
 ## 🛠 Tools & Technologies
 - **Power BI:** Dashboard creation & DAX modeling  
-- **Excel/CSV:** Raw data cleaning and verification  
+- **Excel:** Raw data cleaning and verification  
 - **DAX:** Calculated metrics and dynamic visuals  
 
----
-
-## 🚀 Limitations & Future Scope
-- The dataset covers **only one week of data**, limiting long-term trend forecasting.  
-- Future improvements:  
-  - Use **monthly/quarterly data**.  
-  - Add **campaign performance & inventory insights**.
 
 ---
 

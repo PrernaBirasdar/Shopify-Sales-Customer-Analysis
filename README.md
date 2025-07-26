@@ -97,10 +97,12 @@ The interactive dashboard helps management make **data-driven decisions** in sal
 
 ## 📷 Dashboard Preview
 
-![Detail Tab Dashboard](.github/Detail_Tab.png)
+![Cover_Page](.github/Cover_Page.png)
 
 ![Sales Analysis Dashboard](.github/Sales_Analysis.png)
 
-![Cover_Page](.github/Cover_Page.png)
+![Detail Tab Dashboard](.github/Detail_Tab.png)
+
+
 
 
